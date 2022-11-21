@@ -1,0 +1,14 @@
+create account
+
+open gmail for verification
+
+create a new (empty repo) and name it appropiatly 
+
+go to https://git-scm.com/ for downloading git bash
+
+git bash go to desired directory and clone the repo created in step 2
+
+cd said repo and explain branches 
+
+switch branch using code: git checkout -b <desired branch name here>
+
